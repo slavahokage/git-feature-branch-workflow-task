@@ -23,3 +23,9 @@ Back panel
 
 ![Image of iphone x back](https://cdn.gsmarena.com/imgroot//reviews/17/apple-iphone-x/lifestyle/-728w2/gsmarena_010.jpg)
 
+# Similar devices
+* OnePlus 6
+* Huawei P20 Pro / P20
+* Vivo X21
+* Honor 10
+* Huawei Nova 3
