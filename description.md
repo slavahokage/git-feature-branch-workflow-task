@@ -14,9 +14,12 @@ The iPhone X is introduce as a classic "One more thing..." addition to the iPhon
 * RAM: 3GB*
 * Storage: 64GB / 256GB
 # Photo
+
 Main screen
+
 ![Image of iphone x](https://touch.com.ua/upload/iblock/07e/07e866550156edd10d114a17cfe9c76f.jpg)
 
 Back panel
-![Image of iphone x](https://cdn.gsmarena.com/imgroot//reviews/17/apple-iphone-x/lifestyle/-728w2/gsmarena_010.jpg)
+
+![Image of iphone x back](https://cdn.gsmarena.com/imgroot//reviews/17/apple-iphone-x/lifestyle/-728w2/gsmarena_010.jpg)
 
